@@ -11,7 +11,7 @@
 .mtj.tmp/
 
 # Properties files
-*.properties
+.gitignore.properties
 
 # Package Files #
 *.jar
